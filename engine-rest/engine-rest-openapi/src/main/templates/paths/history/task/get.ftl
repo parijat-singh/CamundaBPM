@@ -30,7 +30,7 @@
 
     <@lib.response
         code = "200"
-        type = "array"
+        array = true
         dto = "HistoricTaskInstanceDto"
         desc = "Request successful."
     />

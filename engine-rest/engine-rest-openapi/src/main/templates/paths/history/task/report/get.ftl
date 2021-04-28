@@ -67,7 +67,7 @@
 
     <@lib.response
         code = "200"
-        type = "array"
+        array = true
         dto = "HistoricTaskInstanceReportResultDto"
         desc = "Request successful."
     />
